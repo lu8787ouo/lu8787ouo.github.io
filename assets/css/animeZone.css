@@ -3459,7 +3459,18 @@ input[type="button"].small,
 		display: none;
 	}
 }
+#aniya {
+	border-radius: 50%;
 
+	font-size: 3em;
+	height: 3em;
+
+	margin: auto;
+	text-align: center;
+	width: 3em;
+}
+
+/*table*/
 div#pageModule{
 	text-align: center;
 }
