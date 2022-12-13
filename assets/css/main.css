@@ -3289,10 +3289,6 @@ input[type="button"].small,
 		margin-bottom: 2em;
 	}
 
-	header.major br {
-		display: none;
-	}
-
 	header.major p {
 		font-size: 0.8em;
 	}
@@ -3301,9 +3297,7 @@ input[type="button"].small,
 		margin-top: 2em;
 	}
 
-	footer.major br {
-		display: none;
-	}
+	
 
 	/* Box */
 
