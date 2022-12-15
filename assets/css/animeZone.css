@@ -2164,7 +2164,7 @@ footer {
 }
 
 footer.major {
-	border-bottom-width: 1px;
+	border-bottom-width: 100px;
 	border-color: rgba(224, 224, 224, 0.75);
 	border-style: solid;
 	border-top-width: 1px;
@@ -2185,7 +2185,7 @@ footer.major:after {
 }
 
 footer.major:before {
-	top: 10px;
+	top: 100px;
 }
 
 footer.major:after {
