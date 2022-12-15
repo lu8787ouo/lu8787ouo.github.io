@@ -2918,9 +2918,15 @@ input[type="button"].small,
 	width: 2.35em;
 }
 
-#header .logo.fa-paper-plane-o:before {
-	left: -0.075em;
-	position: relative;
+#aniya {
+	border-radius: 50%;
+
+	font-size: 3em;
+	height: 3em;
+
+	margin: auto;
+	text-align: center;
+	width: 3em;
 }
 
 #header h1 {
@@ -3455,20 +3461,16 @@ input[type="button"].small,
 		padding-right: 2em;
 	}
 
-	#header br {
-		display: none;
+	#aniya {
+		border-radius: 50%;
+		font-size: 2.5em;
+		height: 2.5em;
+		margin: auto;
+		text-align: center;
+		width: 2.5em;
 	}
 }
-#aniya {
-	border-radius: 50%;
 
-	font-size: 3em;
-	height: 3em;
-
-	margin: auto;
-	text-align: center;
-	width: 3em;
-}
 
 /*table*/
 div#pageModule{
